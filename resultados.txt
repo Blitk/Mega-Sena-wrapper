@@ -1,0 +1,243 @@
+	PORCENTAGEM
+
+53 tem 11.38% de frequencia
+
+10 tem 11.34% de frequencia
+
+42 tem 11.01% de frequencia
+
+5 tem 10.92% de frequencia
+
+4 tem 10.88% de frequencia
+
+33 tem 10.84% de frequencia
+
+23 tem 10.76% de frequencia
+
+37 tem 10.76% de frequencia
+
+27 tem 10.67% de frequencia
+
+30 tem 10.67% de frequencia
+
+34 tem 10.59% de frequencia
+
+54 tem 10.59% de frequencia
+
+28 tem 10.55% de frequencia
+
+41 tem 10.51% de frequencia
+
+43 tem 10.51% de frequencia
+
+29 tem 10.47% de frequencia
+
+35 tem 10.47% de frequencia
+
+16 tem 10.43% de frequencia
+
+17 tem 10.43% de frequencia
+
+44 tem 10.43% de frequencia
+
+24 tem 10.38% de frequencia
+
+36 tem 10.34% de frequencia
+
+11 tem 10.3% de frequencia
+
+51 tem 10.3% de frequencia
+
+6 tem 10.26% de frequencia
+
+49 tem 10.26% de frequencia
+
+13 tem 10.22% de frequencia
+
+38 tem 10.18% de frequencia
+
+32 tem 10.14% de frequencia
+
+2 tem 10.1% de frequencia
+
+56 tem 10.1% de frequencia
+
+8 tem 10.01% de frequencia
+
+52 tem 10.01% de frequencia
+
+18 tem 9.89% de frequencia
+
+50 tem 9.89% de frequencia
+
+46 tem 9.85% de frequencia
+
+58 tem 9.85% de frequencia
+
+12 tem 9.81% de frequencia
+
+20 tem 9.68% de frequencia
+
+45 tem 9.68% de frequencia
+
+1 tem 9.64% de frequencia
+
+7 tem 9.56% de frequencia
+
+40 tem 9.56% de frequencia
+
+59 tem 9.56% de frequencia
+
+25 tem 9.52% de frequencia
+
+47 tem 9.52% de frequencia
+
+39 tem 9.47% de frequencia
+
+14 tem 9.43% de frequencia
+
+31 tem 9.43% de frequencia
+
+57 tem 9.43% de frequencia
+
+60 tem 9.43% de frequencia
+
+9 tem 9.39% de frequencia
+
+19 tem 9.39% de frequencia
+
+48 tem 9.18% de frequencia
+
+3 tem 9.14% de frequencia
+
+22 tem 8.81% de frequencia
+
+15 tem 8.69% de frequencia
+
+21 tem 8.65% de frequencia
+
+55 tem 8.4% de frequencia
+
+26 tem 8.36% de frequencia
+
+
+	QUANTIDADE
+53 já apareceu 275 vezes
+
+10 já apareceu 274 vezes
+
+42 já apareceu 266 vezes
+
+5 já apareceu 264 vezes
+
+4 já apareceu 263 vezes
+
+33 já apareceu 262 vezes
+
+23 já apareceu 260 vezes
+
+37 já apareceu 260 vezes
+
+27 já apareceu 258 vezes
+
+30 já apareceu 258 vezes
+
+34 já apareceu 256 vezes
+
+54 já apareceu 256 vezes
+
+28 já apareceu 255 vezes
+
+41 já apareceu 254 vezes
+
+43 já apareceu 254 vezes
+
+29 já apareceu 253 vezes
+
+35 já apareceu 253 vezes
+
+16 já apareceu 252 vezes
+
+17 já apareceu 252 vezes
+
+44 já apareceu 252 vezes
+
+24 já apareceu 251 vezes
+
+36 já apareceu 250 vezes
+
+11 já apareceu 249 vezes
+
+51 já apareceu 249 vezes
+
+6 já apareceu 248 vezes
+
+49 já apareceu 248 vezes
+
+13 já apareceu 247 vezes
+
+38 já apareceu 246 vezes
+
+32 já apareceu 245 vezes
+
+2 já apareceu 244 vezes
+
+56 já apareceu 244 vezes
+
+8 já apareceu 242 vezes
+
+52 já apareceu 242 vezes
+
+18 já apareceu 239 vezes
+
+50 já apareceu 239 vezes
+
+46 já apareceu 238 vezes
+
+58 já apareceu 238 vezes
+
+12 já apareceu 237 vezes
+
+20 já apareceu 234 vezes
+
+45 já apareceu 234 vezes
+
+1 já apareceu 233 vezes
+
+7 já apareceu 231 vezes
+
+40 já apareceu 231 vezes
+
+59 já apareceu 231 vezes
+
+25 já apareceu 230 vezes
+
+47 já apareceu 230 vezes
+
+39 já apareceu 229 vezes
+
+14 já apareceu 228 vezes
+
+31 já apareceu 228 vezes
+
+57 já apareceu 228 vezes
+
+60 já apareceu 228 vezes
+
+9 já apareceu 227 vezes
+
+19 já apareceu 227 vezes
+
+48 já apareceu 222 vezes
+
+3 já apareceu 221 vezes
+
+22 já apareceu 213 vezes
+
+15 já apareceu 210 vezes
+
+21 já apareceu 209 vezes
+
+55 já apareceu 203 vezes
+
+26 já apareceu 202 vezes
