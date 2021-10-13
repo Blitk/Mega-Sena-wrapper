@@ -12,15 +12,7 @@ sopa = bs(pagina.text, "html.parser")
 tr = sopa.find("tr")
 td = tr.find_all("td")
 
-
-
-#de 24 em 24 para mudar de linha
-
-#3 - data 
-# do 4 ao 9 são os números 
-
 dados_brutos = []
-
 
 for dado in td:
     try:
